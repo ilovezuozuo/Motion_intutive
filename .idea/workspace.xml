@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b48357-420d-4aa3-8224-e6f1720f76ec" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$calculate_bbox_of_robots.coverage" NAME="calculate_bbox_of_robots Coverage Results" MODIFIED="1701080689745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$Separating_Axis_Theorem.coverage" NAME="Separating Axis Theorem Coverage Results" MODIFIED="1702012151333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_basic_alg" />
+    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5 Coverage Results" MODIFIED="1702119570663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$111.coverage" NAME="111 Coverage Results" MODIFIED="1701178396697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$2023_11_19.coverage" NAME="2023.11.19 Coverage Results" MODIFIED="1700386364023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$RRTstar.coverage" NAME="RRTstar Coverage Results" MODIFIED="1698654496242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4 Coverage Results" MODIFIED="1702117651958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$draw_robot_6_joint_axis__1_.coverage" NAME="draw_robot_6_joint_axis (1) Coverage Results" MODIFIED="1711432919216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$yancao__1_.coverage" NAME="yancao (1) Coverage Results" MODIFIED="1700563664643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$2023_12_13main__1_.coverage" NAME="2023.12.13main (1) Coverage Results" MODIFIED="1702540226411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$2024_03_04main_CPU.coverage" NAME="2024.03.04main-CPU Coverage Results" MODIFIED="1710121649012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$IK.coverage" NAME="IK Coverage Results" MODIFIED="1709556873965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differentiable_computation_engine" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="演草纸 Coverage Results" MODIFIED="1727235868643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="演草纸2 Coverage Results" MODIFIED="1712592244692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$2023_11_27main.coverage" NAME="2023.11.27main Coverage Results" MODIFIED="1702655962036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$calculate_bbox_of_robots__1_.coverage" NAME="calculate_bbox_of_robots (1) Coverage Results" MODIFIED="1701504869443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differentiable_computation_engine" />
+    <SUITE FILE_PATH="coverage/$draw_3D_cuboid.coverage" NAME="draw_3D_cuboid Coverage Results" MODIFIED="1702538549007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/$2024_03_03.coverage" NAME="2024.03.03 Coverage Results" MODIFIED="1709558116435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$RRT_ompl.coverage" NAME="RRT-ompl Coverage Results" MODIFIED="1698894287148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$yancao.coverage" NAME="yancao Coverage Results" MODIFIED="1699618817857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$Loss_for_train.coverage" NAME="Loss_for_train Coverage Results" MODIFIED="1727422857114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loss" />
+    <SUITE FILE_PATH="coverage/$3.coverage" NAME="演草纸3 Coverage Results" MODIFIED="1702115994999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$utilities.coverage" NAME="utilities Coverage Results" MODIFIED="1715424022570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
+    <SUITE FILE_PATH="coverage/$draw_robot_6_joint_axis.coverage" NAME="draw_robot_6_joint_axis Coverage Results" MODIFIED="1712816862382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$data__1_.coverage" NAME="data (1) Coverage Results" MODIFIED="1725954394769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2D_RNN_generate_path[success]/try_RNN_prediction" />
+    <SUITE FILE_PATH="coverage/$2024_03_11main_CPU.coverage" NAME="2024.03.11main-CPU Coverage Results" MODIFIED="1727441022943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$RRT_python.coverage" NAME="RRT-python Coverage Results" MODIFIED="1719404123279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_basic_alg" />
+    <SUITE FILE_PATH="coverage/$data_generator.coverage" NAME="data_generator Coverage Results" MODIFIED="1719402574711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/$SAT.coverage" NAME="SAT算法文件测试 Coverage Results" MODIFIED="1711694817738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useless" />
+    <SUITE FILE_PATH="coverage/$data.coverage" NAME="data Coverage Results" MODIFIED="1715428507597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/$Joint_angle_interpolate_engine.coverage" NAME="Joint_angle_interpolate_engine Coverage Results" MODIFIED="1727277142344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differentiable_computation_engine" />
+    <SUITE FILE_PATH="coverage/$2023_12_13main.coverage" NAME="2023.12.13main Coverage Results" MODIFIED="1702539034121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
+    <SUITE FILE_PATH="coverage/$2023_11_22__.coverage" NAME="2023.11.22[只限制最后一个点离终点的距离] Coverage Results" MODIFIED="1700636493621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2D_RNN_generate_path[success]" />
+    <SUITE FILE_PATH="coverage/$try_Bounding_Box.coverage" NAME="try Bounding Box Coverage Results" MODIFIED="1698586366693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$try_RNN.coverage" NAME="try RNN Coverage Results" MODIFIED="1700042290245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$2023_11_08.coverage" NAME="2023.11.08 Coverage Results" MODIFIED="1700190683792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="碰撞检测与路径预测尝试" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.26835608">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/FK.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="960">
+                  <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+                  <folding>
+                    <element signature="e#0#12#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Loss/Loss_for_train.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3180">
+                  <caret line="126" column="64" selection-start-line="126" selection-start-column="64" selection-end-line="126" selection-end-column="64" />
+                  <folding>
+                    <element signature="e#0#13#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/SAT.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5400">
+                  <caret line="188" selection-start-line="188" selection-end-line="188" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/utilities.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15630">
+                  <caret line="529" column="25" selection-start-line="529" selection-start-column="25" selection-end-line="529" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#0#12#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/Angle_solutions_filtering_engine.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/Joint_angle_interpolate_engine.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/2024.03.11main-CPU.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="707">
+                  <caret line="448" column="17" lean-forward="true" selection-start-line="448" selection-start-column="17" selection-end-line="448" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#22#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/data/data.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="562">
+                  <caret line="274" column="53" lean-forward="true" selection-start-line="274" selection-start-column="53" selection-end-line="274" selection-end-column="53" />
+                  <folding>
+                    <element signature="e#570966#571170#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/data/data_generator.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1470">
+                  <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#0#12#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/IK.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="7290">
+                  <caret line="246" column="26" selection-start-line="246" selection-start-column="26" selection-end-line="246" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#12#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Network/MLP.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1650">
+                  <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>num_relative_position_right</find>
+      <find>num_collision_free</find>
+      <find>num_relative_rotation_right</find>
+      <find>interpolate_joint_angles</find>
+      <find>calculate_cube_vertices2</find>
+      <find>torch.cat</find>
+      <find>draw_once</find>
+      <find>0.8427, 0.8372, 0.1833, 0.2833, 0.2479, 0.2489, 0.0189, 0.0883, 0.0461,</find>
+      <find>IK</find>
+      <find>model.eval</find>
+      <find>-2.6377</find>
+      <find>data</find>
+      <find>plot_cuboids</find>
+      <find>,30] loss:</find>
+      <find>THT2</find>
+      <find>extract_pose_from_transform_matrix</find>
+      <find>stack</find>
+      <find>N</find>
+      <find>intermediate_outputs</find>
+      <find>Parameter containing:</find>
+      <find>Parameter containing</find>
+      <find>model</find>
+      <find>loss</find>
+      <find>batch</find>
+      <find>register_hook</find>
+      <find>save_grad</find>
+      <find>num_Error1</find>
+      <find>,100]</find>
+      <find>这个分支就不该发生</find>
+      <find>,100</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>70.7</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/try Bounding Box.py" />
+        <option value="D:/conda/envs/pytorch/Lib/site-packages/env.py" />
+        <option value="$PROJECT_DIR$/RRTstar.py" />
+        <option value="$PROJECT_DIR$/RRT-ompl.py" />
+        <option value="$PROJECT_DIR$/yancao.py" />
+        <option value="$PROJECT_DIR$/try RNN.py" />
+        <option value="$PROJECT_DIR$/2023.11.08.py" />
+        <option value="$PROJECT_DIR$/2023.11.19.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/FK&amp;IK.py" />
+        <option value="$PROJECT_DIR$/useless/yancao.py" />
+        <option value="$PROJECT_DIR$/draw_3D_cuboid.py" />
+        <option value="$PROJECT_DIR$/2D_RNN_generate_path[success]/2023.11.22[只限制最后一个点离终点的距离].py" />
+        <option value="$PROJECT_DIR$/calculate_bbox_of_robots.py" />
+        <option value="$PROJECT_DIR$/Network/RNN.py" />
+        <option value="$PROJECT_DIR$/111.py" />
+        <option value="$PROJECT_DIR$/try_basic_alg/try RNN.py" />
+        <option value="$PROJECT_DIR$/try_basic_alg/Separating Axis Theorem.py" />
+        <option value="$PROJECT_DIR$/useless/4.py" />
+        <option value="$PROJECT_DIR$/useless/5.py" />
+        <option value="$PROJECT_DIR$/useless/演草纸3.py" />
+        <option value="$PROJECT_DIR$/utilities/2023.12.13main.py" />
+        <option value="$PROJECT_DIR$/2023.12.13main.py" />
+        <option value="$PROJECT_DIR$/2023.11.27main.py" />
+        <option value="$PROJECT_DIR$/2024.03.03.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/IK - CPU.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/IK.py" />
+        <option value="$PROJECT_DIR$/Loss/loss.py" />
+        <option value="$PROJECT_DIR$/2024.03.04main-CPU.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/angle_solutions_filtering_engine.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/joint_angle_interpolate_engine.py" />
+        <option value="$PROJECT_DIR$/useless/演草纸随便测试用.py" />
+        <option value="$PROJECT_DIR$/utilities/draw_robot_6_joint_axis.py" />
+        <option value="$PROJECT_DIR$/useless/SAT算法文件测试.py" />
+        <option value="$PROJECT_DIR$/useless/draw_robot_6_joint_axis.py" />
+        <option value="$PROJECT_DIR$/useless/演草纸2.py" />
+        <option value="$PROJECT_DIR$/useless/演草纸.py" />
+        <option value="$PROJECT_DIR$/data/data_generator.py" />
+        <option value="$PROJECT_DIR$/try_basic_alg/RRT-python.py" />
+        <option value="$PROJECT_DIR$/2D_RNN_generate_path[success]/try_RNN_prediction/data.py" />
+        <option value="$PROJECT_DIR$/utilities/演草纸.py" />
+        <option value="$PROJECT_DIR$/utilities/utilities.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/SAT.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/Joint_angle_interpolate_engine.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/FK.py" />
+        <option value="$PROJECT_DIR$/Loss/Loss_for_train.py" />
+        <option value="$PROJECT_DIR$/Network/MLP.py" />
+        <option value="$PROJECT_DIR$/differentiable_computation_engine/Angle_solutions_filtering_engine.py" />
+        <option value="$PROJECT_DIR$/2024.03.11main-CPU.py" />
+        <option value="$PROJECT_DIR$/data/data.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="186" />
+    <option name="width" value="1722" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="碰撞检测与路径预测尝试" type="b2602c69:ProjectViewProjectNode" />
+              <item name="碰撞检测与路径预测尝试" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="碰撞检测与路径预测尝试" type="b2602c69:ProjectViewProjectNode" />
+              <item name="碰撞检测与路径预测尝试" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\23576\Desktop\碰撞检测与路径预测尝试\try_basic_alg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2024.03.11main-CPU">
+    <configuration name="演草纸" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="碰撞检测与路径预测尝试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/演草纸.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2024.03.11main-CPU" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="碰撞检测与路径预测尝试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024.03.11main-CPU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Joint_angle_interpolate_engine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="碰撞检测与路径预测尝试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/differentiable_computation_engine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/differentiable_computation_engine/Joint_angle_interpolate_engine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Loss_for_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="碰撞检测与路径预测尝试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loss" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loss/Loss_for_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="碰撞检测与路径预测尝试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2D_RNN_generate_path[success]/try_RNN_prediction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2D_RNN_generate_path[success]/try_RNN_prediction/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2024.03.11main-CPU" />
+        <item itemvalue="Python.Loss_for_train" />
+        <item itemvalue="Python.Joint_angle_interpolate_engine" />
+        <item itemvalue="Python.演草纸" />
+        <item itemvalue="Python.data (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b48357-420d-4aa3-8224-e6f1720f76ec" name="默认更改列表" comment="" />
+      <created>1698035586232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698035586232</updated>
+      <workItem from="1698035589540" duration="2083000" />
+      <workItem from="1698319395824" duration="6044000" />
+      <workItem from="1698581726557" duration="5700000" />
+      <workItem from="1698650182069" duration="3329000" />
+      <workItem from="1698829022024" duration="2496000" />
+      <workItem from="1698831547563" duration="1117000" />
+      <workItem from="1698894043936" duration="3740000" />
+      <workItem from="1699090053721" duration="595000" />
+      <workItem from="1699187432310" duration="605000" />
+      <workItem from="1699409506988" duration="7601000" />
+      <workItem from="1699616885341" duration="6472000" />
+      <workItem from="1699851757678" duration="7998000" />
+      <workItem from="1700019565628" duration="11488000" />
+      <workItem from="1700189600834" duration="23208000" />
+      <workItem from="1700622054771" duration="11913000" />
+      <workItem from="1700903640796" duration="624000" />
+      <workItem from="1701072703306" duration="3872000" />
+      <workItem from="1701087102104" duration="2582000" />
+      <workItem from="1701141409829" duration="594000" />
+      <workItem from="1701176458748" duration="2032000" />
+      <workItem from="1701504840296" duration="900000" />
+      <workItem from="1701693635876" duration="648000" />
+      <workItem from="1701764572817" duration="5759000" />
+      <workItem from="1701831378102" duration="876000" />
+      <workItem from="1701921009358" duration="20011000" />
+      <workItem from="1702003944402" duration="5801000" />
+      <workItem from="1702106510398" duration="12181000" />
+      <workItem from="1702128625290" duration="4934000" />
+      <workItem from="1702306066137" duration="611000" />
+      <workItem from="1702388473196" duration="1041000" />
+      <workItem from="1702433726323" duration="6721000" />
+      <workItem from="1702535922528" duration="5483000" />
+      <workItem from="1702653707768" duration="3203000" />
+      <workItem from="1702730087522" duration="2506000" />
+      <workItem from="1702912518419" duration="596000" />
+      <workItem from="1709281858246" duration="311000" />
+      <workItem from="1709282214916" duration="984000" />
+      <workItem from="1709438537556" duration="41878000" />
+      <workItem from="1709736678566" duration="1355000" />
+      <workItem from="1709792249536" duration="3760000" />
+      <workItem from="1709870302381" duration="95000" />
+      <workItem from="1710079004690" duration="24831000" />
+      <workItem from="1710407782442" duration="613000" />
+      <workItem from="1711028490207" duration="12559000" />
+      <workItem from="1711258816836" duration="5250000" />
+      <workItem from="1711421091747" duration="28637000" />
+      <workItem from="1711801378388" duration="15319000" />
+      <workItem from="1711957890680" duration="7516000" />
+      <workItem from="1712481679367" duration="7270000" />
+      <workItem from="1712816717568" duration="5387000" />
+      <workItem from="1712901825130" duration="3274000" />
+      <workItem from="1714984003230" duration="305000" />
+      <workItem from="1715419625056" duration="8192000" />
+      <workItem from="1715852494308" duration="445000" />
+      <workItem from="1718249074973" duration="7965000" />
+      <workItem from="1719401256993" duration="2895000" />
+      <workItem from="1719405803251" duration="1790000" />
+      <workItem from="1720846273892" duration="874000" />
+      <workItem from="1721742767987" duration="612000" />
+      <workItem from="1725954177481" duration="3466000" />
+      <workItem from="1727233865087" duration="7394000" />
+      <workItem from="1727270836892" duration="18059000" />
+      <workItem from="1727433071214" duration="2716000" />
+      <workItem from="1727440054267" duration="3076000" />
+      <workItem from="1728454447121" duration="72000" />
+      <workItem from="1729583537581" duration="604000" />
+      <workItem from="1729686445407" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="393218000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="1033" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.13529766" />
+      <window_info id="Structure" order="1" sideWeight="0.50510204" side_tool="true" weight="0.17438364" />
+      <window_info id="Favorites" order="2" sideWeight="0.50383145" side_tool="true" weight="0.085387856" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.499098" visible="true" weight="0.03329634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500902" side_tool="true" weight="0.55160934" />
+      <window_info anchor="bottom" id="调试" order="10" weight="0.19200888" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.12985572" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32741398" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286334" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.03329634" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.018039687" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="972" selection-start-line="972" selection-end-line="972" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="1574" column="65" lean-forward="true" selection-start-line="1574" selection-start-column="43" selection-end-line="1574" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/test_for FK&amp;IK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_basic_alg/try RNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_basic_alg/calculate_bbox_of_robots.py" />
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/numpy/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/演草纸3.py" />
+    <entry file="file://$PROJECT_DIR$/useless/4.py" />
+    <entry file="file://$PROJECT_DIR$/useless/5.py" />
+    <entry file="file://$PROJECT_DIR$/utilities/2023.12.13main.py" />
+    <entry file="file://D:/conda/envs/pytorch/Lib/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="446" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1210" selection-start-line="1210" selection-end-line="1210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_basic_alg/Separating Axis Theorem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2023.12.13main.py" />
+    <entry file="file://$PROJECT_DIR$/2023.11.27main.py" />
+    <entry file="file://$PROJECT_DIR$/2024.03.03.py" />
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/IK - CPU.py" />
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torchviz/dot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/nn/modules/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draw/draw_3D_cuboid.py" />
+    <entry file="file://$PROJECT_DIR$/Loss/loss.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2024.03.04main-CPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="37" column="14" lean-forward="true" selection-end-line="281" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPSN-mian/2023.11.27main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/演草纸随便测试用.py" />
+    <entry file="file://$PROJECT_DIR$/utilities/draw_robot_6_joint_axis.py" />
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/plotly/graph_objs/_scatter3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="2765" selection-start-line="2765" selection-end-line="2765" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/演草纸2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="378" column="48" lean-forward="true" selection-start-line="378" selection-start-column="48" selection-end-line="378" selection-end-column="48" />
+          <folding>
+            <element signature="e#13271#13280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/SAT算法文件测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/utils/data/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="363" column="8" selection-start-line="363" selection-start-column="8" selection-end-line="363" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_basic_alg/RRT-ompl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_basic_alg/RRT-python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="97" column="57" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/draw_robot_6_joint_axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="225" column="14" selection-start-line="225" selection-start-column="14" selection-end-line="225" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D_RNN_generate_path[success]/try_RNN_prediction/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/演草纸.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="14" selection-start-line="14" selection-end-line="24" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/useless/演草纸.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="420" selection-start-line="420" selection-end-line="428" selection-end-column="72" />
+          <folding>
+            <element signature="e#8871#8889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/_C/_VariableFunctions.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4857">
+          <caret line="456" column="72" selection-start-line="456" selection-start-column="72" selection-end-line="456" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/conda/envs/pytorch/Lib/site-packages/torch/_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/FK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loss/Loss_for_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="126" column="64" selection-start-line="126" selection-start-column="64" selection-end-line="126" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/SAT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5400">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15630">
+          <caret line="529" column="25" selection-start-line="529" selection-start-column="25" selection-end-line="529" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/Joint_angle_interpolate_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/Angle_solutions_filtering_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2024.03.11main-CPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="448" column="17" lean-forward="true" selection-start-line="448" selection-start-column="17" selection-end-line="448" selection-end-column="17" />
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/differentiable_computation_engine/IK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7290">
+          <caret line="246" column="26" selection-start-line="246" selection-start-column="26" selection-end-line="246" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Network/MLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="274" column="53" lean-forward="true" selection-start-line="274" selection-start-column="53" selection-end-line="274" selection-end-column="53" />
+          <folding>
+            <element signature="e#570966#571170#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
