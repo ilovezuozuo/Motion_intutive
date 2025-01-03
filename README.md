@@ -4,4 +4,4 @@
 3. 数据集构成
 ![image](https://github.com/user-attachments/assets/4e73a72e-b69d-4e91-b41b-835d7c87c80e)
 4. 可微计算都写在differentiable_computation_engine下了
-5. rrt-algorithms是我改的别人的rrt算法，但是目前push不上来，我查查为什么
+5. rrt-algorithms是我改的别人的rrt算法，它本身是个仓库我都删掉了，但是目前push不上来，我查查为什么
